@@ -3,7 +3,7 @@
 **"Desenvolvedora Front-end | HTML | CSS | JavaScript | React (em estudo)** <br>
 📍 Salvador-BA  
 😄 Pronouns: she/her  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nevesgno&label=Profile%20views&color=ff66cc&style=flat" alt="Nevesgno" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielanevesoliveira&label=Profile%20views&color=ff66cc&style=flat" alt="gabrielanevesoliveira" /> </p>
 
 ---
 
@@ -18,9 +18,9 @@ Busco um ambiente que valorize a **resolução de problemas** e o desenvolviment
 
 | Projeto | Tecnologias | Foco | Link |
 | :--- | :--- | :--- | :--- |
-| **Calculadora de IMC** | HTML, CSS, JavaScript | Manipulação do DOM, **validação de inputs do usuário** e resolução de problemas básicos, com design simples e funcional. | [Link](https://github.com/nevesgno/Calculadora-de-IMC) |
-| **Calendário Menstrual** | HTML, CSS, JavaScript | Foco em **UX/UI** e **Responsividade** para dados sensíveis, garantindo usabilidade em dispositivos móveis. | [Link](https://github.com/nevesgno/Calendario-Menstrual) |
-| **Sistema de Controle de Gastos** *(em andamento)* | JavaScript (ES6+), HTML, CSS | Em desenvolvimento: foco em **Lógica de Programação** e manipulação de Arrays para controle financeiro. | [Link](https://github.com/nevesgno/Sistema-de-controle-de-gastos-pessoais) |
+| **Calculadora de IMC** | HTML, CSS, JavaScript | Manipulação do DOM, **validação de inputs do usuário** e resolução de problemas básicos, com design simples e funcional. | [Link](https://github.com/gabrielanevesoliveira/Calculadora-de-IMC) |
+| **Calendário Menstrual** | HTML, CSS, JavaScript | Foco em **UX/UI** e **Responsividade** para dados sensíveis, garantindo usabilidade em dispositivos móveis. | [Link](https://github.com/gabrielanevesoliveira/Calendario-Menstrual) |
+| **Sistema de Controle de Gastos** *(em andamento)* | JavaScript (ES6+), HTML, CSS | Em desenvolvimento: foco em **Lógica de Programação** e manipulação de Arrays para controle financeiro. | [Link](https://github.com/gabrielanevesoliveira/Sistema-de-controle-de-gastos-pessoais) |
 
 
 ---
@@ -72,13 +72,13 @@ Busco um ambiente que valorize a **resolução de problemas** e o desenvolviment
 <h1 align="center">         
 📊 Estatísticas do GitHub
 </h1>
-<a href="https://github.com/Nevesgno">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nevesgno&theme=radical" width="32.5%">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nevesgno&theme=radical" width="32.5%">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nevesgno&theme=radical&utcOffset=-3" width="32.5%"> 
+<a href="https://github.com/gabrielanevesoliveira">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielanevesoliveira&theme=radical" width="32.5%">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielanevesoliveira&theme=radical" width="32.5%">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielanevesoliveira&theme=radical&utcOffset=-3" width="32.5%"> 
 </a>
-<a href="https://github.com/Nevesgno">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nevesgno&theme=radical" width="98.5%">
+<a href="https://github.com/gabrielanevesoliveira">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielanevesoliveira&theme=radical" width="98.5%">
 </a>
 
 ----
@@ -90,3 +90,4 @@ Busco um ambiente que valorize a **resolução de problemas** e o desenvolviment
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/nevesgno/)
 [![E-mail](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=ff79c6)](mailto:nevesgno@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nevesgno)
+
